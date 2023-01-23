@@ -29,6 +29,6 @@ If they have the same element, the card with a higher number wins the game.
 
 The player get 2 wins first will be considered as winner and they can stay on the square
 
-python server.py  #runs the server
+python server.py  #runs the server\
 python client.py  #runs the client interface 
 

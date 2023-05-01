@@ -32,3 +32,9 @@ The player get 2 wins first will be considered as winner and they can stay on th
 python server.py  #runs the server\
 python client.py  #runs the client interface 
 
+# Video Demo
+https://user-images.githubusercontent.com/105681721/235413018-1c560b6a-6ee3-4598-92e2-b2c0602b8e47.mp4
+
+
+
+

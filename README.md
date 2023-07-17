@@ -23,7 +23,7 @@ There will be 1 of 3 elements and a number for each card. When two players play 
 
 It will first compares the element of two cards:
 
-Fire beat Snow, Snow beats Water, and Water beat fire.
+Fire beats Snow, Snow beats Water, and Water beats fire.
 
 If they have the same element, the card with a higher number wins the game.
 
